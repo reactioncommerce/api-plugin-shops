@@ -1,3 +1,7 @@
+# This repository is deprecated
+
+This code is now located in our monorepo [here](https://github.com/reactioncommerce/reaction/tree/trunk/packages/api-plugin-shops)
+
 # api-plugin-shops
 
 [![npm (scoped)](https://img.shields.io/npm/v/@reactioncommerce/api-plugin-shops.svg)](https://www.npmjs.com/package/@reactioncommerce/api-plugin-shops)
